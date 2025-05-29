@@ -1,7 +1,0 @@
-name: UtilityAPI
-version: '1.0'
-main: de.tebrox.utilityAPI.UtilityAPI
-api-version: '1.21'
-load: STARTUP
-authors: [ Tebrox ]
-description: Eine Utility API
